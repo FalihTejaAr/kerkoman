@@ -1,2 +1,0 @@
-# kerkoman
-tempat kerkom bareng
