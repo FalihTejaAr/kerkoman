@@ -1,4 +1,4 @@
-🚧⚠{BACA_MANG.md masih dalam tahap konstruksi}⚠🚧
+🚧⚠{README.md masih dalam tahap konstruksi}⚠🚧
 # kerkoman
 tempat kerkom bareng
 
