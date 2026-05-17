@@ -4,7 +4,7 @@ tempat kerkom bareng
 
 [kosong lom ada isi]
 
-kalo mau bikin folder = 
-dinama file ketik / 
+kalo mau bikin folder = <br>
+dinama file, ketik / 
 
 ingfo lebih lanjut hubungi admin 🐈
