@@ -5,6 +5,6 @@ tempat kerkom bareng
 [kosong lom ada isi]
 
 kalo mau bikin folder = <br>
-dinama file, ketik / 
+dinama file, ketik [nama_folder/nama_file] 
 
 ingfo lebih lanjut hubungi admin 🐈
